@@ -1,0 +1,12 @@
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\bin\Debug\net8.0\Auth.Backend.Infrastructure.deps.json
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\bin\Debug\net8.0\Auth.Backend.Infrastructure.dll
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\bin\Debug\net8.0\Auth.Backend.Infrastructure.pdb
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\Auth.Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\Auth.Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\Auth.Backend.Infrastructure.AssemblyInfo.cs
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\Auth.Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\Auth.Backend.Infrastructure.sourcelink.json
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\Auth.Backend.Infrastructure.dll
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\refint\Auth.Backend.Infrastructure.dll
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\Auth.Backend.Infrastructure.pdb
+C:\Workspace\Auth.Backend\Auth.Backend.Infrastructure\obj\Debug\net8.0\ref\Auth.Backend.Infrastructure.dll

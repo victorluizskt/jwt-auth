@@ -4,6 +4,11 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Text;
 
+// TODO: 1. Implementar validação a nível de banco
+//       2. Adicionar as variáveis de ambiente no Github
+//       3. Adicionar expirationToken (fazer retry do token)
+//       4. Não deixar gerar dois tokens para o mesmo usuário
+
 namespace Auth.Backend.Controllers
 {
     [Route("api/[controller]")]
@@ -12,11 +17,16 @@ namespace Auth.Backend.Controllers
     {
         private readonly IConfiguration _configuration = configuration;
 
+        /// <summary>
+        /// Rota para gerar um token válido para o usuário
+        /// </summary>
+        /// <param name="loginRequest"></param>
+        /// <returns></returns>
         [HttpPost()]
         [ProducesResponseType(typeof(LoginRequest), StatusCodes.Status200OK)]
         public IActionResult LoginUser(LoginRequest loginRequest)
         {
-            if(loginRequest == null || (!loginRequest.UserName.Equals("victorluizskt") && !loginRequest.Password.Equals("123456")))
+            if(loginRequest == null || (!loginRequest.UserName.Equals("victorluizskt") || !loginRequest.Password.Equals("123456")))
             {
                 return BadRequest("User or password invalid.");
             }

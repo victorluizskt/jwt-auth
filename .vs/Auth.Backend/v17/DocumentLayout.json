@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Workspace\\Auth.Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|c:\\workspace\\auth.backend\\auth.backend.model\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|solutionrelative:auth.backend.model\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\auth.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\auth.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|c:\\workspace\\auth.backend\\auth.backend.model\\auth.backend.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|solutionrelative:auth.backend.model\\auth.backend.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "Auth.Backend\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\TestController.cs",
-              "RelativeToolTip": "Auth.Backend\\Controllers\\TestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:26:11.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "Auth.Backend\\appsettings.json",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\appsettings.json",
-              "RelativeToolTip": "Auth.Backend\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-08T16:10:51.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Auth.Backend.Model",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Auth.Backend.Model.csproj",
-              "RelativeDocumentMoniker": "Auth.Backend.Model\\Auth.Backend.Model.csproj",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Auth.Backend.Model.csproj",
-              "RelativeToolTip": "Auth.Backend.Model\\Auth.Backend.Model.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-08T16:10:21.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Auth.Backend",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Auth.Backend.csproj",
-              "RelativeDocumentMoniker": "Auth.Backend\\Auth.Backend.csproj",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Auth.Backend.csproj",
-              "RelativeToolTip": "Auth.Backend\\Auth.Backend.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-08T16:10:20.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Model\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Auth.Backend.Model\\Model\\LoginRequest.cs",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Model\\LoginRequest.cs",
-              "RelativeToolTip": "Auth.Backend.Model\\Model\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:03:06.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Auth.cs",
               "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\Auth.cs",
               "RelativeDocumentMoniker": "Auth.Backend\\Controllers\\Auth.cs",
               "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\Auth.cs",
               "RelativeToolTip": "Auth.Backend\\Controllers\\Auth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACCAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwC8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:59:31.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Auth.Backend\\Program.cs",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Program.cs",
-              "RelativeToolTip": "Auth.Backend\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:58:38.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Auth.Backend\\WeatherForecast.cs",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\WeatherForecast.cs",
-              "RelativeToolTip": "Auth.Backend\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:58:37.613Z",
+              "WhenOpened": "2024-06-08T16:53:56.438Z",
               "EditorCaption": ""
             }
           ]
