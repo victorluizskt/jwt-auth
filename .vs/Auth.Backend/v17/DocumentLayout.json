@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Workspace\\Auth.Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA4534-D093-410F-87EC-99B5FD333516}|Auth.Backend.Infrastructure\\Auth.Backend.Infrastructure.csproj|c:\\workspace\\auth.backend\\auth.backend.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA4534-D093-410F-87EC-99B5FD333516}|Auth.Backend.Infrastructure\\Auth.Backend.Infrastructure.csproj|solutionrelative:auth.backend.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1D6473-EBC4-45D9-8D5D-2AC42DE044D8}|Auth.Backend.Business\\Auth.Backend.Business.csproj|c:\\workspace\\auth.backend\\auth.backend.business\\authbusiness\\authbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1D6473-EBC4-45D9-8D5D-2AC42DE044D8}|Auth.Backend.Business\\Auth.Backend.Business.csproj|solutionrelative:auth.backend.business\\authbusiness\\authbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB02A19-7279-412C-B7D1-D07BBC19F7C3}|Auth.Backend.Repository\\Auth.Backend.Repository.csproj|c:\\workspace\\auth.backend\\auth.backend.repository\\authrepository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB02A19-7279-412C-B7D1-D07BBC19F7C3}|Auth.Backend.Repository\\Auth.Backend.Repository.csproj|solutionrelative:auth.backend.repository\\authrepository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|c:\\workspace\\auth.backend\\auth.backend.model\\interface\\iauthbusiness\\iauthbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|solutionrelative:auth.backend.model\\interface\\iauthbusiness\\iauthbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|c:\\workspace\\auth.backend\\auth.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A277556B-2F33-4248-A316-5E42AD89CD3E}|Auth.Backend\\Auth.Backend.csproj|solutionrelative:auth.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|c:\\workspace\\auth.backend\\auth.backend.model\\interface\\iauthrepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|solutionrelative:auth.backend.model\\interface\\iauthrepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2A9CDC-6891-46C0-9F7F-596B50225ABD}|Auth.Backend.Util\\Auth.Backend.Util.csproj|c:\\workspace\\auth.backend\\auth.backend.util\\encrypt\\encryptutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2A9CDC-6891-46C0-9F7F-596B50225ABD}|Auth.Backend.Util\\Auth.Backend.Util.csproj|solutionrelative:auth.backend.util\\encrypt\\encryptutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|c:\\workspace\\auth.backend\\auth.backend.model\\auth.backend.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{943F7E7F-F8A5-4D9B-AEE4-6B0BF959EE07}|Auth.Backend.Model\\Auth.Backend.Model.csproj|solutionrelative:auth.backend.model\\auth.backend.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +51,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Auth.cs",
-              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\Auth.cs",
-              "RelativeDocumentMoniker": "Auth.Backend\\Controllers\\Auth.cs",
-              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\Auth.cs",
-              "RelativeToolTip": "Auth.Backend\\Controllers\\Auth.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAiwC8AAAAIAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Auth.Backend\\Program.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Program.cs",
+              "RelativeToolTip": "Auth.Backend\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:56:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Auth.Backend.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Auth.Backend.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:01:03.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Repository\\AuthRepository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Auth.Backend.Repository\\AuthRepository\\AuthRepository.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Repository\\AuthRepository\\AuthRepository.cs",
+              "RelativeToolTip": "Auth.Backend.Repository\\AuthRepository\\AuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:52:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Interface\\IAuthRepository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Auth.Backend.Model\\Interface\\IAuthRepository\\IAuthRepository.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Interface\\IAuthRepository\\IAuthRepository.cs",
+              "RelativeToolTip": "Auth.Backend.Model\\Interface\\IAuthRepository\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:51:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptUtil.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Util\\Encrypt\\EncryptUtil.cs",
+              "RelativeDocumentMoniker": "Auth.Backend.Util\\Encrypt\\EncryptUtil.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Util\\Encrypt\\EncryptUtil.cs",
+              "RelativeToolTip": "Auth.Backend.Util\\Encrypt\\EncryptUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:12:15.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auth.Backend.Model",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Auth.Backend.Model.csproj",
+              "RelativeDocumentMoniker": "Auth.Backend.Model\\Auth.Backend.Model.csproj",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Auth.Backend.Model.csproj",
+              "RelativeToolTip": "Auth.Backend.Model\\Auth.Backend.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T17:05:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthBusiness.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Business\\AuthBusiness\\AuthBusiness.cs",
+              "RelativeDocumentMoniker": "Auth.Backend.Business\\AuthBusiness\\AuthBusiness.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Business\\AuthBusiness\\AuthBusiness.cs",
+              "RelativeToolTip": "Auth.Backend.Business\\AuthBusiness\\AuthBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:02:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthBusiness.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Interface\\IAuthBusiness\\IAuthBusiness.cs",
+              "RelativeDocumentMoniker": "Auth.Backend.Model\\Interface\\IAuthBusiness\\IAuthBusiness.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend.Model\\Interface\\IAuthBusiness\\IAuthBusiness.cs",
+              "RelativeToolTip": "Auth.Backend.Model\\Interface\\IAuthBusiness\\IAuthBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:02:42.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth.Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth.Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyEAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T16:53:56.438Z",
               "EditorCaption": ""

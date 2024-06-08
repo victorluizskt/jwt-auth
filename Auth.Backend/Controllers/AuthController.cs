@@ -1,4 +1,5 @@
-﻿using Auth.Backend.Model.Model;
+﻿using Auth.Backend.Model.Interface.IAuthBusiness;
+using Auth.Backend.Model.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -13,9 +14,13 @@ namespace Auth.Backend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class Auth(IConfiguration configuration) : ControllerBase
+    public class AuthController(
+        IConfiguration configuration, 
+        IAuthBusiness authBusiness
+    ) : ControllerBase
     {
         private readonly IConfiguration _configuration = configuration;
+        private readonly IAuthBusiness _authBusiness = authBusiness;
 
         /// <summary>
         /// Rota para gerar um token válido para o usuário
@@ -24,9 +29,11 @@ namespace Auth.Backend.Controllers
         /// <returns></returns>
         [HttpPost()]
         [ProducesResponseType(typeof(LoginRequest), StatusCodes.Status200OK)]
-        public IActionResult LoginUser(LoginRequest loginRequest)
+        public async Task<IActionResult> LoginUser(LoginRequest loginRequest)
         {
-            if(loginRequest == null || (!loginRequest.UserName.Equals("victorluizskt") || !loginRequest.Password.Equals("123456")))
+            var verifyUserDb = await _authBusiness.GetUserDatabaseAsync(loginRequest.UserName, loginRequest.Password);
+
+            if(!verifyUserDb)
             {
                 return BadRequest("User or password invalid.");
             }

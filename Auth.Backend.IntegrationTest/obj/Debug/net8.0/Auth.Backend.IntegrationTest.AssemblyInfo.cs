@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Auth.Backend.IntegrationTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b51457e640dfe124e2b2c54237dbb24231709d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43e56119d1b2c34e3c4eb22d109dee454cab485a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Auth.Backend.IntegrationTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Auth.Backend.IntegrationTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wFEu/E82OnrVQ+PTmabWXTVUqsfqDksgj2XyElF83GuA3jWOPFYvQyOsNwpkuAHgXozMAaN5AEPSa8ZgKS+sHg==",
+  "dgSpecHash": "Eszf6CYx457gCS3srlt7MHfG+xq1K0UJoPLHzpnc17Hc4JuHMMrqrjr9SG6ZzTx7os70R3Srn9hXYCx1qH/0KQ==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\Auth.Backend\\Auth.Backend\\Auth.Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.0\\microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.0\\microsoft.identitymodel.jsonwebtokens.7.6.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.0\\microsoft.identitymodel.logging.7.6.0.nupkg.sha512",

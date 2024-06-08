@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Auth.Backend.Infrastructure\Auth.Backend.Infrastructure.csproj" />
     <ProjectReference Include="..\Auth.Backend.Model\Auth.Backend.Model.csproj" />
   </ItemGroup>
 
